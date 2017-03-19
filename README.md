@@ -30,4 +30,8 @@ Portfolio pages are based on Flickr collections. To modify it you just need to c
 
 ## Demo & Personal Use
 
-Here it is: [**To the demo!**](http://jpdias.me/portfolio-photo/)
+Here is the jpdias's Porfolio: [**To the demo!**](http://jpdias.me/portfolio-photo/)
+And mine: [**To the demo!**](https://drdada.github.io)
+
+## Thanks
+Thanks to João Pedro Dias, who developped this project. All credits belongs to him.
